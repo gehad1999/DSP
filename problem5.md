@@ -22,11 +22,11 @@
 ### Cough propagation simulation through sagittal plane:
 * Cough propagation with mask propagates more slowly than without mask.
 
-![](With-Mask-Coronal-and-sagital)
+![](With-Mask-Coronal-and-sagital.gif)
 ### Cough propagation simulation through coronal plane:
 * Cough propagation with mask propagates more closely than without mask. Without mask, cough propagates more widely.
 
-![](With-Mask-Coronal-and-sagital)
+![](With-Mask-Coronal-and-sagital.gif)
 ## Plotting the relation between (cough strength effect) and the distance from it:
 ### strength of cough effect reduces when the distance increases.
 ### the scene is represented as one who considered as the source of cough and the slider represnts someone who receives this cough.
@@ -35,9 +35,9 @@
 ## Comparison between (with) and (without Mask) in the sagittal plane:
 ### we'll notice that the area of propagation gets smaller when we use mask.
 
-![](With-Mask-sagittal.gif)![](Without-Mask-sagittal.gif)
+![](With-Mask-sagittal.gif)     ![](Without-Mask-sagittal.gif)
 ## Comparison between (with) and (without Mask) in the coronal plane:
 ### we'll notice that the area of propagation gets smaller when we use mask.
 
-![](With-Mask-coronal.gif)![](Without-Mask-Coronal.gif)
+![](With-Mask-coronal.gif)      ![](Without-Mask-Coronal.gif)
  
