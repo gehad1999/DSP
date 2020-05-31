@@ -7,7 +7,7 @@
 # Using CFD (cumulative fluid dynamics) Model in simulation:
 # the simulation represnts the propagation for the cough in air:
 ### Blue color represents the maximun effect for the cough on specific area
-### we assumed mouse open with mask or with out with a circular shape
+### we assumed our barriers in a circular shape
 ## Without Mask:
 ### Cough propagation simulation through sagittal plane:
 * Most effected area is the nearst area from cough source, cough propagates in air in a high speed and in all directions. 
